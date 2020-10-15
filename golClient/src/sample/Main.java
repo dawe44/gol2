@@ -25,6 +25,8 @@ import java.text.NumberFormat;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
+//All the javafx code occurs here, this is the only file with spaghetti code, please ignore this file
+//I will clean this later
 
 /**
  * Inside this main contains all code for JavaFX GUI.
